@@ -1,2 +1,0 @@
-# kafka-source
-kafka-sourcess
